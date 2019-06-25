@@ -1,3 +1,11 @@
+/* CONTAINER */
+.container{
+max-width: 1024px;
+margin: 0 auto;
+}
+/* END OF CONTAINER */
+
+/* TITLE */
 .title {
     font-family: sans-serif;
     font-size: 2em;
@@ -8,6 +16,8 @@
 .title--green{
 color: green
 }
+/* END OF TITLE */
+/* TECHNOLOGIES */
 
 .tehnologies__col{
     display: flex;
@@ -17,3 +27,4 @@ color: green
 .technologies__img{
     height: 200px;
 }
+/* END OF TECHNOLOGIES */
