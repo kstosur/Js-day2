@@ -8,3 +8,12 @@
 .title--green{
 color: green
 }
+
+.tehnologies__col{
+    display: flex;
+    justify-content: center;
+    
+}
+.technologies__img{
+    height: 200px;
+}
